@@ -9,3 +9,5 @@ I have also created a Windows executable version, which requires Python to be in
 Need to install Pyserial lib. 
 
 pip install pyserial
+
+Check the Update folder for the last version!
